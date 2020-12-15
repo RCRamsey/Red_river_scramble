@@ -1,7 +1,7 @@
 # Red_river_scramble
 ## Maps for the Red River Scramble Motorycle rally.
 
-## Red River Gorge September 24-27, 2020
+Red River Gorge September 24-27, 2020
 ![Banner image for event](Graphics/banner.jpg)
 
 A grassroots motorcycle rally with an emphasis on off-road riding in eastern Kentucky's Red River Gorge canyon system.
