@@ -3,6 +3,7 @@
 
 Red River Gorge September 24-27, 2020
 ![Banner image for event](Graphics/banner.jpg)
+Photo credit to [redriverscramble](https://redriverscramble.com)
 
 A grassroots motorcycle rally with an emphasis on off-road riding in eastern Kentucky's Red River Gorge canyon system.
 
