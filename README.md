@@ -10,19 +10,19 @@ A grassroots motorcycle rally with an emphasis on off-road riding in eastern Ken
 ## Resources
 * Event Website: [redriverscramble.com](https://redriverscramble.com)
 * GPX files obtained from a participant rider in the 2020 year event
-*Mountain Springs Bypass [GeoJSON](xxx.geojson)
-*DBBB Full CCW [GeoJSON](xxx.geojson)
-*RRS Pavement Master [GeoJSON](xxx.geojson)
-*RRS Adventure Master [GeoJSON](xxx.geojson)
-*RRS Intermediate ADV Loop [GeoJSON](xxx.geojson)
-*RRS East Coal Country Paved Loop [GeoJSON](xxx.geojson)
-*DBBB Intermediate [GeoJSON](xxx.geojson)
-*RRS Central Dual-Sport Loop [GeoJSON](xxx.geojson)
-*RRS NE Dual Sport Loop [GeoJSON](xxx.geojson)
-*RRS Dual-Sport Master [GeoJSON](xxx.geojson)
-*White Sulfur OHV Outer Loop [GeoJSON](xxx.geojson)
-*RRS South Sweeper Loop [GeoJSON](xxx.geojson)
-*RRS Covered Bridge Loop [GeoJSON](xxx.geojson)
+    -* Mountain Springs Bypass [GeoJSON](xxx.geojson)
+* DBBB Full CCW [GeoJSON](xxx.geojson)
+* RRS Pavement Master [GeoJSON](xxx.geojson)
+* RRS Adventure Master [GeoJSON](xxx.geojson)
+* RRS Intermediate ADV Loop [GeoJSON](xxx.geojson)
+* RRS East Coal Country Paved Loop [GeoJSON](xxx.geojson)
+* DBBB Intermediate [GeoJSON](xxx.geojson)
+* RRS Central Dual-Sport Loop [GeoJSON](xxx.geojson)
+* RRS NE Dual Sport Loop [GeoJSON](xxx.geojson)
+* RRS Dual-Sport Master [GeoJSON](xxx.geojson)
+* White Sulfur OHV Outer Loop [GeoJSON](xxx.geojson)
+* RRS South Sweeper Loop [GeoJSON](xxx.geojson)
+* RRS Covered Bridge Loop [GeoJSON](xxx.geojson)
 
 
 ## Intentions
