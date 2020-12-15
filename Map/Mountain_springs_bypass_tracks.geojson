@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Mountain_springs_bypass_tracks",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mountain Springs Bypass", "cmt": null, "desc": null, "src": null, "link1_href": "http:\/\/www.mtbproject.com\/trail\/7015121", "link1_text": null, "link1_type": null, "link2_href": null, "link2_text": null, "link2_type": null, "number": null, "type": null, "gpxx_TrackExtension": "        <gpxx:DisplayColor>DarkGray<\/gpxx:DisplayColor>      " }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -83.78298299, 37.74782499, 367.47 ], [ -83.78266901, 37.74774, 365.07 ], [ -83.78145598, 37.74690198, 360.56 ], [ -83.78175203, 37.746014, 354.44 ], [ -83.780899, 37.74527497, 346.44 ], [ -83.78074603, 37.74462897, 337.88 ], [ -83.77972201, 37.74389002, 332.81 ], [ -83.778698, 37.74315099, 334.86 ], [ -83.77705397, 37.74375499, 341.99 ], [ -83.77541003, 37.74435899, 351.32 ], [ -83.77368503, 37.74393998, 360.98 ], [ -83.77252699, 37.74408901, 367.57 ], [ -83.77135897, 37.744231, 369.98 ], [ -83.77089201, 37.74415297, 370.59 ] ] ] } }
+]
+}

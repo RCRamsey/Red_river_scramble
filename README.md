@@ -10,7 +10,7 @@ A grassroots motorcycle rally with an emphasis on off-road riding in eastern Ken
 ## Resources
 * Event Website: [redriverscramble.com](https://redriverscramble.com)
 * GPX files obtained from a participant rider in the 2020 year event
-    -* Mountain Springs Bypass [GeoJSON](xxx.geojson)
+* Mountain Springs Bypass [GeoJSON](xxx.geojson)
 * DBBB Full CCW [GeoJSON](xxx.geojson)
 * RRS Pavement Master [GeoJSON](xxx.geojson)
 * RRS Adventure Master [GeoJSON](xxx.geojson)
