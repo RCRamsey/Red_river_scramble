@@ -12,4 +12,4 @@ A grassroots motorcycle rally with an emphasis on off-road riding in eastern Ken
 
 ## Intentions
 To develop an embedded interactive Mapbox map option for riders to view the events routes.
-Would like to pursue the route of being able to display Relief/Elevation Range the way that an example was given back in [Module 9] (https://sheltoweetrace.com/hike/scenic/map/). This style of interactive map would allow a rider to grasp the skill/ability level necessary to select a route.
+Would like to pursue the option of being able to display Relief/Elevation Range the way that the example given back in Module 9 showed (https://sheltoweetrace.com/hike/scenic/map/). This style of interactive map would allow a rider to grasp the skill/ability level necessary to select a route.
