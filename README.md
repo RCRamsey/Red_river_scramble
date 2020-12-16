@@ -11,7 +11,7 @@ A grassroots motorcycle rally with an emphasis on off-road riding in eastern Ken
 * Event Website: [redriverscramble.com](https://redriverscramble.com)
 * GPX files obtained from a participant rider in the 2020 year event
 
-* RRS Novice Adv Loop [GeoJSON](RRS_novice_ADV_Loop_tracks.geojson)
+* RRS Novice Adv Loop [GeoJSON](map/RRS_novice_ADV_Loop_tracks.geojson)
 * RRS Intermediate ADV Loop [GeoJSON](RRS_intermediate_ADV_loop_tracks.geojson)
 * RRS Pavement Master [GeoJSON](RRS_pavement_master_tracks.geojson)
 * RRS Adventure Master [GeoJSON](RRS_adventure_master_tracks.geojson)
