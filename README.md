@@ -10,7 +10,9 @@ A grassroots motorcycle rally with an emphasis on off-road riding in eastern Ken
 ## Resources
 * Event Website: [redriverscramble.com](https://redriverscramble.com)
 * GPX files obtained from a participant rider in the 2020 year event
+* DBBB Full Route [GeoJSON](DBBB_full_route_tracks.geojson)
 
+Other routes to be considered as time permits:
 * RRS Novice Adv Loop [GeoJSON](RRS_novice_ADV_Loop_tracks.geojson)
 * RRS Intermediate ADV Loop [GeoJSON](RRS_intermediate_ADV_loop_tracks.geojson)
 * RRS Pavement Master [GeoJSON](RRS_pavement_master_tracks.geojson)
@@ -29,10 +31,9 @@ A grassroots motorcycle rally with an emphasis on off-road riding in eastern Ken
 * RRS DBNF FSR [GeoJSON](RRS_DBNF_FSR_tracks.geojson)
 * RRS iron furnace loop [GeoJSON](RRS_iron_furnace_loop_tracks.geojson)
 * RRS You Won't Make It CCW Extreme Dual [GeoJSON](RRS_you_wont_make_it_ccw_extreme_dual_tracks.geojson)
-
 * Mountain Springs Bypass [GeoJSON](Mountain_springs_bypass_tracks.geojson)
 * White Sulfur OHV Outer Loop [GeoJSON](White_sulfur_OHV_Outer_loop_tracks.geojson)
-* DBBB Full Route [GeoJSON](DBBB_full_route_tracks.geojson)
+
 * DBBB Full CCW [GeoJSON](DBBB_full_CCW_track.geojson)
 * DBBB rated [GeoJSON](DBBB_rated_tracks.geojson)
 * DBBB Novice Tracks [GeoJSON](DBBB_novice_tracks.geojson)
@@ -41,6 +42,6 @@ A grassroots motorcycle rally with an emphasis on off-road riding in eastern Ken
 
 
 ## Intentions
-To develop an embedded interactive Mapbox map option for riders to view the events routes.
-Would like to pursue the option of being able to display Relief/Elevation Range the way that the example given back in Module 9 showed (https://sheltoweetrace.com/hike/scenic/map/). This style of interactive map would allow a rider to accurately visualize topographic impacts on the routes in addition to grasp the skill/ability level necessary to accomplish it.
+To develop an embedded interactive Mapbox map option for riders to view an event route.
+Would like to pursue the option of being able to display Relief/Elevation Range the way that the example given back in Module 9 showed (https://sheltoweetrace.com/hike/scenic/map/). This style of interactive map would allow a rider to accurately visualize topographic impacts on the route in addition to grasp the skill/ability level necessary to accomplish it.
 
