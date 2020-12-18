@@ -10,7 +10,7 @@ A grassroots motorcycle rally with an emphasis on off-road riding in eastern Ken
 ## Resources
 * Event Website: [redriverscramble.com](https://redriverscramble.com)
 * GPX files obtained from a participant rider in the 2020 year event
-* DBBB Full Route [GeoJSON](DBBB_full_route_tracks.geojson)
+* DBBB Full CCW Route [GeoJSON](DBBB_full_CCW_track.geojson)
 
 ## Intentions
 To develop an embedded interactive Mapbox map option for riders to view an event route.
