@@ -1,0 +1,16 @@
+{
+    "title": "Red River Scramble: The Bluegrass Adventure Rally DBBB Route",
+    "info": " This map outlines a single route, the Daniel Boone Backcountry Byway (with elevation range delineated by color) of the 
+    The Red River Scramble is a grassroots motorcycle rally with an emphasis 
+    on off-road riding in eastern Kentucky's Red River Gorge canyon system. 
+    The scramble typically takes place over one weekend. Upon zooming in users 
+    are able to identify additional amenities such as lodging, 
+    local towns, food, fuel and points of interest. The DBBB gpx data can be accessed 
+    at the Red River Scramble's event page.
+    "coordinates": [
+        37.723,
+        -83.696
+    ],
+    "author": "RC Ramsey",
+    "link": "https://rcramsey.github.io/Red_river_scramble/"
+}
