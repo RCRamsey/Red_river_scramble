@@ -16,3 +16,6 @@ A grassroots motorcycle rally with an emphasis on off-road riding in eastern Ken
 To develop an embedded interactive Mapbox map option for riders to view an event route.
 Will pursue the option of being able to display Relief/Elevation Range. This style of interactive map would allow a rider to accurately visualize topographic impacts on the route.
 
+## Final Map
+Final map is published <a href="https://rcramsey.github.io/Red_river_scramble/">here</a>
+
