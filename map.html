@@ -24,6 +24,39 @@
 </head>
 
 <body>
+        <!--2nd attempt at legend entry -->
+        <style>
+            .legend label,
+            .legend span {
+                display:block;
+                float:left;
+                height:15px;
+                width:20%;
+                text-align:center;
+                font-size:9px;
+                color:#808080;
+            }
+        </style>
+
+        <!-- Setting the display of this container to none so can
+             add it programmatically to `legendControl` -->
+        <div id='legend' style='display:none;'>
+            <strong>Red River Rally Daniel Boone Backcountry Byway
+                2020 Route with Elevation</strong>
+            <nav class='legend clearfix'>
+                <span style='background:#F1EEF6;'></span>
+                <span style='background:#BDC9E1;'></span>
+                <span style='background:#74A9CF;'></span>
+                <span style='background:#2B8CBE;'></span>
+                <span style='background:#045A8D;'></span>
+                <label>0 - 20%</label>
+                <label>40%</label>
+                <label>60%</label>
+                <label>80%</label>
+                <label>100%</label>
+                <small>Source: <a href="https://redriverscramble.com/where-to-ride/">RRS DBBB ride route</a></small>
+        </div>
+        <!--end of attempt-->
 
     <div id='map'></div>
 
@@ -47,6 +80,10 @@
             // ----------------------------------------------
 
         });
+
+        //additonal portion of attempt in adding legend
+        map.legendControl.addLegend(document.getElementByID('legend').innerHTML);
+        //end of additional portion needed to add legend
 
         // Add geolocate control to the map.
         map.addControl(new mapboxgl.GeolocateControl({
