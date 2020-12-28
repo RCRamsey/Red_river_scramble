@@ -20,12 +20,37 @@
             bottom: 0;
             width: 100%;
         }
+
+        #legend {
+            display: block;
+            background-color: #fff;
+            border-radius: 3px;
+            bottom: 30px;
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+
+            padding: 10px;
+            position: absolute;
+            right: 10px;
+            z-index: 1000;
+            }
+            
+        #legend h4 {
+            margin: 0 0 10px;
+            }
+            
+        #legend div span {
+            border-radius: 50%;
+            display: inline-block;
+            height: 10px;
+            margin-right: 5px;
+            width: 10px;
+            }
     </style>
 </head>
 
 <body>
         <!--2nd attempt at legend entry -->
-        <style>
+        <!-- <style>
             .legend label,
             .legend span {
                 display:block;
@@ -36,29 +61,24 @@
                 font-size:9px;
                 color:#808080;
             }
-        </style>
+        </style> -->
+
+        <div id='map'></div>
 
         <!-- Setting the display of this container to none so can
              add it programmatically to `legendControl` -->
-        <div id='legend' style='display:none;'>
-            <strong>Red River Rally Daniel Boone Backcountry Byway
-                2020 Route with Elevation</strong>
-            <nav class='legend clearfix'>
-                <span style='background:#F1EEF6;'></span>
-                <span style='background:#BDC9E1;'></span>
-                <span style='background:#74A9CF;'></span>
-                <span style='background:#2B8CBE;'></span>
-                <span style='background:#045A8D;'></span>
-                <label>0 - 20%</label>
-                <label>40%</label>
-                <label>60%</label>
-                <label>80%</label>
-                <label>100%</label>
+        <div id='legend'>
+            <h4>Red River Rally Daniel Boone Backcountry Byway
+                2020 Route with Elevation</h4>
+                <div><span style='background:#F1EEF6;'></span>0 - 20%</div>
+                <div><span style='background:#BDC9E1;'></span>40%</div>
+                <div><span style='background:#74A9CF;'></span>60%</div>
+                <div><span style='background:#2B8CBE;'></span>80%</div>
+                <div><span style='background:#045A8D;'></span>100%</div>
                 <small>Source: <a href="https://redriverscramble.com/where-to-ride/">RRS DBBB ride route</a></small>
         </div>
         <!--end of attempt-->
 
-    <div id='map'></div>
 
     <script>
         // Change this to your Access token ----------------------
@@ -82,7 +102,7 @@
         });
 
         //additonal portion of attempt in adding legend
-        map.legendControl.addLegend(document.getElementByID('legend').innerHTML);
+        // map.legendControl.addLegend(document.getElementByID('legend').innerHTML);
         //end of additional portion needed to add legend
 
         // Add geolocate control to the map.
